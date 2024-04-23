@@ -1,3 +1,7 @@
+# Original project
+
+This code base is a copy of the original GMRbasedGP work https://sites.google.com/view/gmr-based-gp?pli=1, with minor changes made for comparison with our work https://github.com/farhadnawaz/CLF-CBF-NODE.
+
 # Instruction
 ```python3 -m venv env```  
 ```source env/bin/activate```  
